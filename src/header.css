@@ -1,0 +1,19 @@
+.header {
+	text-align: center;
+	padding: 2rem;
+}
+
+.logo {
+	max-width: 16rem;	
+}
+
+/* phone only */
+@media (max-width: 599px) {
+	.header {
+		padding: 1rem;
+	}
+	.logo {
+		max-width: 8rem;
+	}
+}
+
