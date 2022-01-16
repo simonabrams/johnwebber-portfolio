@@ -56,7 +56,7 @@ class App extends React.Component {
           images={this.state.images}
           backdropClosesModal={true}
           showCloseButton={false}
-        />
+        ></Gallery>
       </div>
     );
   }

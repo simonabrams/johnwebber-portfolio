@@ -199,8 +199,8 @@ export const photos = [
   {
     src: "./images/jwebber-woodworking-41.jpg",
     thumbnail: "./images/thumbnails/jwebber-woodworking-41.jpg",
-    thumbnailWidth: 180,
-    thumbnailHeight: 120,
+    thumbnailWidth: 135,
+    thumbnailHeight: 180,
     // caption: 'image 2'
   },
   {

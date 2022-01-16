@@ -1,0 +1,28 @@
+.footer {
+  bottom: 0;
+  background: #41a960;
+  padding: 2.6rem;
+  color: white;
+  margin: 3rem 0;
+  border-top: 6px solid #2b201d;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* phone only */
+@media (max-width: 599px) {
+  .footer {
+    padding: 1rem;
+  }
+  .logo {
+    max-width: 8rem;
+  }
+}
