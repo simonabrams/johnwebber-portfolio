@@ -315,6 +315,21 @@ export const photos = [
     thumbnailHeight: 180,
     // caption: 'image 2'
   },
+  {
+    src: "./images/jwebber-baluster-01.jpg",
+    thumbnail: "./images/thumbnails/jwebber-baluster-01.jpg",
+    thumbnailWidth: 55,
+    thumbnailHeight: 180,
+    // caption: 'image 2'
+  },
+  {
+    src: "./images/jwebber-baluster-02.jpg",
+    thumbnail: "./images/thumbnails/jwebber-baluster-02.jpg",
+    thumbnailWidth: 57,
+    thumbnailHeight: 180,
+    // caption: 'image 2'
+  },
+ 
 ];
 
 export default photos;
