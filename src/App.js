@@ -5,6 +5,7 @@ import Header from "./header";
 import Nav from "./nav";
 import Gallery from "react-grid-gallery";
 import photos from "./photos";
+import YouTube from 'react-youtube-embed'
 
 class App extends React.Component {
   constructor(props) {
@@ -36,6 +37,7 @@ class App extends React.Component {
       <div className="gallery">
         <Header />
         <Nav />
+        <YouTube id='6ATNhJaj-lc' />
 
         <div className="about">
           <h1>Portfolio</h1>
