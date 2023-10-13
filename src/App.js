@@ -37,7 +37,6 @@ class App extends React.Component {
       <div className="gallery">
         <Header />
         <Nav />
-        <YouTube id='6ATNhJaj-lc' />
 
         <div className="about">
           <h1>Portfolio</h1>
@@ -54,11 +53,18 @@ class App extends React.Component {
           </p>
         </div>
 
-        <Gallery
-          images={this.state.images}
-          backdropClosesModal={true}
-          showCloseButton={false}
-        ></Gallery>
+        <div className="gallery-wrap">
+          <Gallery
+            images={this.state.images}
+            backdropClosesModal={true}
+            showCloseButton={false}
+          ></Gallery>          
+        </div>
+
+        <div className="youtube">
+          <YouTube id='6ATNhJaj-lc' />
+        </div>
+        
       </div>
     );
   }

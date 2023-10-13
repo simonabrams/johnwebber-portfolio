@@ -1,4 +1,54 @@
 export const photos = [
+  // door project
+  {
+    src: "./images/jwebber_door-project_001.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_001.jpg",
+    thumbnailWidth: 135,
+    thumbnailHeight: 180,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  {
+    src: "./images/jwebber_door-project_002.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_002.jpg",
+    thumbnailWidth: 135,
+    thumbnailHeight: 180,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  {
+    src: "./images/jwebber_door-project_004.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_004.jpg",
+    thumbnailWidth: 135,
+    thumbnailHeight: 180,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  {
+    src: "./images/jwebber_door-project_006.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_006.jpg",
+    thumbnailWidth: 180,
+    thumbnailHeight: 135,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  {
+    src: "./images/jwebber_door-project_010.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_010.jpg",
+    thumbnailWidth: 180,
+    thumbnailHeight: 135,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  {
+    src: "./images/jwebber_door-project_013.jpg",
+    thumbnail: "./images/thumbnails/jwebber_door-project_013.jpg",
+    thumbnailWidth: 135,
+    thumbnailHeight: 180,
+    // caption: 'image 1',
+    // tags: [{ value: 'kitchens', title: 'kitchens'}]
+  },
+  
   {
     src: "./images/jwebber-woodworking-01.jpg",
     thumbnail: "./images/thumbnails/jwebber-woodworking-01.jpg",
